@@ -1,0 +1,493 @@
+[
+    {
+        "category": "Starters & Appetizers",
+        "items": [
+            {
+                "id": 101,
+                "name": "Chicken-65",
+                "description": "Spicy deep-fried chicken starter",
+                "price": 239,
+                "isVeg": false,
+                "image": "/images/chicken-65.png"
+            },
+            {
+                "id": 102,
+                "name": "Chicken-555",
+                "description": "Flavorful chicken appetizer",
+                "price": 239,
+                "isVeg": false,
+                "image": "https://images.unsplash.com/photo-1610057099443-fde8c4d50f91?w=500&q=80"
+            },
+            {
+                "id": 103,
+                "name": "Dragon Chicken",
+                "description": "Indo-Chinese spicy chicken",
+                "price": 249,
+                "isVeg": false,
+                "image": "/images/dragon-chicken.png"
+            },
+            {
+                "id": 104,
+                "name": "Chilli Chicken",
+                "description": "Classic spicy chicken stir-fry",
+                "price": 249,
+                "isVeg": false,
+                "image": "https://images.unsplash.com/photo-1617692855027-33b14f061079?w=500&q=80"
+            },
+            {
+                "id": 105,
+                "name": "Fish and Chips",
+                "description": "Classic battered fish with fries",
+                "price": 299,
+                "isVeg": false,
+                "image": "/images/fish-and-chips.png"
+            },
+            {
+                "id": 106,
+                "name": "Apollo Fish",
+                "description": "Spicy Hyderabad style fish",
+                "price": 289,
+                "isVeg": false,
+                "image": "https://images.unsplash.com/photo-1599487488170-d11ec9c172f0?w=500&q=80"
+            },
+            {
+                "id": 107,
+                "name": "Chilli Fish",
+                "description": "Spicy fish toss",
+                "price": 279,
+                "isVeg": false,
+                "image": "/images/chilli-fish.png"
+            },
+            {
+                "id": 108,
+                "name": "Loose Prawns",
+                "description": "Crispy fried prawns",
+                "price": 299,
+                "isVeg": false,
+                "image": "/images/loose-prawns.png"
+            },
+            {
+                "id": 109,
+                "name": "Butter Garlic Prawns",
+                "description": "Prawns in rich butter garlic sauce",
+                "price": 299,
+                "isVeg": false,
+                "image": "https://images.unsplash.com/photo-1625938144755-652e08e359b7?w=500&q=80"
+            },
+            {
+                "id": 110,
+                "name": "French Fries",
+                "description": "Classic salted fries",
+                "price": 199,
+                "isVeg": true,
+                "image": "/images/french-fries.png"
+            },
+            {
+                "id": 111,
+                "name": "Peri Peri Fries",
+                "description": "Spicy peri peri dusted fries",
+                "price": 199,
+                "isVeg": true,
+                "image": "/images/peri-peri-fries.webp"
+            },
+            {
+                "id": 112,
+                "name": "Chilli Cheese Fries",
+                "description": "Fries topped with cheese and chilli",
+                "price": 209,
+                "isVeg": true,
+                "image": "/images/chilli-cheese-fries.jpg"
+            },
+            {
+                "id": 113,
+                "name": "Chicken Nuggets",
+                "description": "Crispy chicken bites",
+                "price": 209,
+                "isVeg": false,
+                "image": "https://images.unsplash.com/photo-1562967914-608f82629710?w=500&q=80"
+            },
+            {
+                "id": 114,
+                "name": "Chicken Popcorn",
+                "description": "Bite-sized fried chicken",
+                "price": 199,
+                "isVeg": false,
+                "image": "/images/chicken-popcorn.jpg"
+            },
+            {
+                "id": 115,
+                "name": "Fish Fingers",
+                "description": "Breaded fish sticks",
+                "price": 259,
+                "isVeg": false,
+                "image": "https://images.unsplash.com/photo-1626082896492-766af4eb6501?w=500&q=80"
+            }
+        ]
+    },
+    {
+        "category": "Main Course",
+        "items": [
+            {
+                "id": 201,
+                "name": "Daal Thadka",
+                "description": "Yellow lentils tempered with spices",
+                "price": 109,
+                "isVeg": true,
+                "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?w=500&q=80"
+            },
+            {
+                "id": 202,
+                "name": "Mutter Paneer",
+                "description": "Paneer and peas in tomato gravy",
+                "price": 179,
+                "isVeg": true,
+                "image": "https://images.unsplash.com/photo-1565557623262-b51c2513a641?w=500&q=80"
+            },
+            {
+                "id": 203,
+                "name": "Paneer Butter Masala",
+                "description": "Rich creamy tomato curry with paneer",
+                "price": 189,
+                "isVeg": true,
+                "image": "https://images.unsplash.com/photo-1631452180519-c014fe946bc7?w=500&q=80"
+            },
+            {
+                "id": 204,
+                "name": "Kaju Tomato",
+                "description": "Cashew and tomato curry",
+                "price": 179,
+                "isVeg": true,
+                "image": "/images/kaju-tomato.webp"
+            },
+            {
+                "id": 205,
+                "name": "Daal Makhni",
+                "description": "Creamy black lentils",
+                "price": 199,
+                "isVeg": true,
+                "image": "https://images.unsplash.com/photo-1588166524941-3bf61a9c41db?w=500&q=80"
+            },
+            {
+                "id": 206,
+                "name": "Egg Curry",
+                "description": "Spiced egg gravy",
+                "price": 209,
+                "isVeg": false,
+                "image": "/images/egg-curry.webp"
+            },
+            {
+                "id": 207,
+                "name": "Butter Chicken",
+                "description": "Classic creamy chicken curry",
+                "price": 259,
+                "isVeg": false,
+                "image": "https://images.unsplash.com/photo-1603894584373-5ac82b2ae398?w=500&q=80"
+            },
+            {
+                "id": 208,
+                "name": "Andhra Chicken Curry",
+                "description": "Spicy traditional chicken curry",
+                "price": 249,
+                "isVeg": false,
+                "image": "https://images.unsplash.com/photo-1455619452474-d2be8b1e70cd?w=500&q=80"
+            },
+            {
+                "id": 209,
+                "name": "Prawn Curry",
+                "description": "Coastal style prawn curry",
+                "price": 299,
+                "isVeg": false,
+                "image": "https://images.unsplash.com/photo-1559314809-0d155014e29e?w=500&q=80"
+            }
+        ]
+    },
+    {
+        "category": "Sandwiches & Burgers",
+        "items": [
+            {
+                "id": 301,
+                "name": "Cheese Sandwich",
+                "description": "Loaded with cheese (Veg/Chicken available)",
+                "price": 209,
+                "isVeg": true,
+                "image": "https://images.unsplash.com/photo-1528735602780-2552fd46c7af?w=500&q=80"
+            },
+            {
+                "id": 302,
+                "name": "Peri Peri Sandwich",
+                "description": "Spicy peri peri filling",
+                "price": 209,
+                "isVeg": true,
+                "image": "https://images.unsplash.com/photo-1509722747041-616f39b57569?w=500&q=80"
+            },
+            {
+                "id": 303,
+                "name": "Club Sandwich",
+                "description": "Double decker sandwich",
+                "price": 259,
+                "isVeg": true,
+                "image": "https://images.unsplash.com/photo-1554433607-66b5efe9d304?w=500&q=80"
+            },
+            {
+                "id": 305,
+                "name": "Cheese Burger",
+                "description": "Classic cheese burger",
+                "price": 189,
+                "isVeg": true,
+                "image": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?w=500&q=80"
+            },
+            {
+                "id": 306,
+                "name": "Crispy Burger",
+                "description": "Crispy patty burger",
+                "price": 189,
+                "isVeg": true,
+                "image": "https://images.unsplash.com/photo-1594212699903-ec8a3eca50f5?w=500&q=80"
+            },
+            {
+                "id": 307,
+                "name": "BBQ Burger",
+                "description": "Smoky BBQ sauce burger",
+                "price": 189,
+                "isVeg": true,
+                "image": "https://images.unsplash.com/photo-1553979459-d2229ba7433b?w=500&q=80"
+            }
+        ]
+    },
+    {
+        "category": "Pizza & Wraps",
+        "items": [
+            {
+                "id": 401,
+                "name": "Cheese Pizza",
+                "description": "Classic cheese pizza",
+                "price": 189,
+                "isVeg": true,
+                "image": "https://images.unsplash.com/photo-1513104890138-7c749659a591?w=500&q=80"
+            },
+            {
+                "id": 402,
+                "name": "Peri Peri Pizza",
+                "description": "Spicy peri peri toppings",
+                "price": 189,
+                "isVeg": true,
+                "image": "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=500&q=80"
+            },
+            {
+                "id": 403,
+                "name": "BBQ Pizza",
+                "description": "Smoky BBQ flavor",
+                "price": 189,
+                "isVeg": true,
+                "image": "https://images.unsplash.com/photo-1506354666786-959d6d497f1a?w=500&q=80"
+            },
+            {
+                "id": 404,
+                "name": "Margherita",
+                "description": "Tomato, basil and cheese",
+                "price": 189,
+                "isVeg": true,
+                "image": "https://images.unsplash.com/photo-1574071318508-1cdbab80d002?w=500&q=80"
+            },
+            {
+                "id": 405,
+                "name": "Crispy Wrap",
+                "description": "Crispy filling wrap",
+                "price": 149,
+                "isVeg": true,
+                "image": "https://images.unsplash.com/photo-1626700051175-6818013e1d4f?w=500&q=80"
+            },
+            {
+                "id": 406,
+                "name": "Grill Wrap",
+                "description": "Grilled filling wrap",
+                "price": 149,
+                "isVeg": true,
+                "image": "/images/grill-wrap.png"
+            }
+        ]
+    },
+    {
+        "category": "Rice & Noodles",
+        "items": [
+            {
+                "id": 501,
+                "name": "Fried Rice",
+                "description": "Wok tossed rice",
+                "price": 199,
+                "isVeg": true,
+                "image": "/images/fried-rice.png"
+            },
+            {
+                "id": 502,
+                "name": "Schezwan Rice",
+                "description": "Spicy schezwan rice",
+                "price": 199,
+                "isVeg": true,
+                "image": "https://images.unsplash.com/photo-1516684732162-798a0062be99?w=500&q=80"
+            },
+            {
+                "id": 503,
+                "name": "Fried Noodles",
+                "description": "Wok tossed noodles",
+                "price": 169,
+                "isVeg": true,
+                "image": "https://images.unsplash.com/photo-1585032226651-759b368d7246?w=500&q=80"
+            },
+            {
+                "id": 504,
+                "name": "Hakka Noodles",
+                "description": "Classic Hakka noodles",
+                "price": 169,
+                "isVeg": true,
+                "image": "https://images.unsplash.com/photo-1552611052-33e04de081de?w=500&q=80"
+            },
+            {
+                "id": 505,
+                "name": "Schezwan Noodles",
+                "description": "Spicy schezwan noodles",
+                "price": 169,
+                "isVeg": true,
+                "image": "https://images.unsplash.com/photo-1612874742237-6526221588e3?w=500&q=80"
+            }
+        ]
+    },
+    {
+        "category": "Beverages",
+        "items": [
+            {
+                "id": 601,
+                "name": "Coffee",
+                "description": "Classic hot coffee",
+                "price": 90,
+                "isVeg": true,
+                "image": "https://images.unsplash.com/photo-1497935586351-b67a49e012bf?w=500&q=80"
+            },
+            {
+                "id": 602,
+                "name": "Cappuccino",
+                "description": "Frothy cappuccino",
+                "price": 129,
+                "isVeg": true,
+                "image": "https://images.unsplash.com/photo-1517701550927-30cf4ba1dba5?w=500&q=80"
+            },
+            {
+                "id": 603,
+                "name": "Caramel Cappuccino",
+                "description": "Cappuccino with caramel",
+                "price": 149,
+                "isVeg": true,
+                "image": "https://images.unsplash.com/photo-1572442388796-11668a67e53d?w=500&q=80"
+            },
+            {
+                "id": 604,
+                "name": "Hot Chocolate",
+                "description": "Rich hot chocolate",
+                "price": 149,
+                "isVeg": true,
+                "image": "https://images.unsplash.com/photo-1517578239113-b03992dcdd25?w=500&q=80"
+            },
+            {
+                "id": 605,
+                "name": "Cold Coffee",
+                "description": "Classic cold coffee",
+                "price": 189,
+                "isVeg": true,
+                "image": "https://images.unsplash.com/photo-1517487881594-2787fef5ebf7?w=500&q=80"
+            },
+            {
+                "id": 606,
+                "name": "Chocolate Cold Brew",
+                "description": "Cold brew with chocolate",
+                "price": 219,
+                "isVeg": true,
+                "image": "/images/chocolate-cold-brew.png"
+            },
+            {
+                "id": 607,
+                "name": "Kit Kat Latte",
+                "description": "Latte with Kit Kat",
+                "price": 249,
+                "isVeg": true,
+                "image": "/images/kit-kat-latte.png"
+            },
+            {
+                "id": 608,
+                "name": "Green Tea",
+                "description": "Healthy green tea",
+                "price": 69,
+                "isVeg": true,
+                "image": "https://images.unsplash.com/photo-1564890369478-c89ca6d9cde9?w=500&q=80"
+            },
+            {
+                "id": 609,
+                "name": "Lemon Tea",
+                "description": "Zesty lemon tea",
+                "price": 69,
+                "isVeg": true,
+                "image": "/images/lemon-tea.png"
+            }
+        ]
+    },
+    {
+        "category": "Breakfast",
+        "items": [
+            {
+                "id": 701,
+                "name": "Eggs On Toast",
+                "description": "Fresh eggs on toast",
+                "price": 109,
+                "isVeg": false,
+                "image": "/images/eggs-on-toast.jpg"
+            },
+            {
+                "id": 702,
+                "name": "Scrambled Egg Toast",
+                "description": "Creamy scrambled eggs on toast",
+                "price": 119,
+                "isVeg": false,
+                "image": "https://images.unsplash.com/photo-1510693206972-df098062cb71?w=500&q=80"
+            },
+            {
+                "id": 703,
+                "name": "French Toast",
+                "description": "Classic French toast",
+                "price": 129,
+                "isVeg": false,
+                "image": "https://images.unsplash.com/photo-1484723091739-30a097e8f929?w=500&q=80"
+            },
+            {
+                "id": 704,
+                "name": "Chocolate Toast",
+                "description": "Toast with chocolate spread",
+                "price": 139,
+                "isVeg": true,
+                "image": "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=500&q=80"
+            },
+            {
+                "id": 705,
+                "name": "Cheese Omelette",
+                "description": "Fluffy cheese omelette",
+                "price": 119,
+                "isVeg": false,
+                "image": "https://images.unsplash.com/photo-1608039829572-78524f79c4c7?w=500&q=80"
+            },
+            {
+                "id": 706,
+                "name": "Oats Upma",
+                "description": "Healthy oats upma",
+                "price": 129,
+                "isVeg": true,
+                "image": "https://images.unsplash.com/photo-1525351326368-efbb5cb6814d?w=500&q=80"
+            },
+            {
+                "id": 707,
+                "name": "Masala Oats",
+                "description": "Spiced masala oats",
+                "price": 129,
+                "isVeg": true,
+                "image": "https://images.unsplash.com/photo-1623428187969-5da2dcea5ebf?w=500&q=80"
+            }
+        ]
+    }
+]
